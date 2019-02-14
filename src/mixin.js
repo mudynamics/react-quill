@@ -1,6 +1,6 @@
 'use strict';
 
-var Quill = require('quill');
+var Quill = require('@dp/quill');
 
 var QuillMixin = {
 
