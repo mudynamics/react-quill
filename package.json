@@ -1,5 +1,5 @@
 {
-  "name": "@dp/react-quill-2",
+  "name": "react-quill-2",
   "version": "2.0.24",
   "description": "The Quill rich-text editor as a React component.",
   "author": "zenoamaro <zenoamaro@gmail.com>",
@@ -21,6 +21,7 @@
     "build": "make build",
     "prepack": "make build",
     "postpack": "make clean",
+    "prepare": "make build",
     "prepublish": "make build",
     "postpublish": "make clean"
   },
@@ -50,7 +51,7 @@
     "create-react-class": "^15.6.0",
     "lodash": "^4.17.4",
     "prop-types": "^15.5.10",
-    "@dp/quill": "2.0.0-dev.47",
+    "quill": "github:mudynamics/quill#70ab1ba2189a3aa31db0c027f00dcb2df6357c51",
     "react-dom-factories": "^1.0.0"
   },
   "peerDependencies": {
