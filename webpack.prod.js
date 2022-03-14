@@ -6,7 +6,7 @@ module.exports = {
 	entry: './src/index.js',
 
 	debug: false,
-	devtool: 'module-source-map',
+	devtool: 'source-map',
 
 	output: {
 		filename: './dist/react-quill.min.js',
