@@ -51,7 +51,7 @@
     "create-react-class": "^15.6.0",
     "lodash": "^4.17.4",
     "prop-types": "^15.5.10",
-    "quill": "github:mudynamics/quill#5a860b2114b523ce7f3405f6098e1b5dc4979ff9",
+    "quill": "github:mudynamics/quill#b718f95237e8257d74b835f74fdcb06cb7a5b18a",
     "react-dom-factories": "^1.0.0"
   },
   "peerDependencies": {
